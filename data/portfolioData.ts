@@ -87,7 +87,7 @@ export const personalInfo: PersonalInfo = {
   bio: "Adaptable IT professional with a strong foundation in the Software Development Life Cycle (SDLC) and proven experience in end-to-end project coordination. Adept at bridging the gap between technical teams and stakeholders.",
   resumeUrl: "/resume/AKKS_Resume.pdf",
   email: "anandakrishnan1000@gmail.com",
-  avatarUrl: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400&h=400", // High-quality Unsplash portrait
+  avatarUrl: "/funny_cat.png", // Funny developer cat 🐱
   githubUrl: "https://github.com/AnandaKrishnanKS",
   linkedinUrl: "https://linkedin.com", // Link to LinkedIn profile
   twitterUrl: "#",
